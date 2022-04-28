@@ -1,11 +1,9 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
+- name: Sukalpa Chanda
+  role: Project Manager / Associate Professor
+  img: https://www.hiof.no/iio/itk/personer/und-forsk-ansatte/sukalpac/sukalpa.jpg
+  bio: Sukalpa Chanda received the Ph.D. degree in computer science from Gjøvik University College (currently NTNU IN), Gjøvik, Norway, in 2015.,He is currently a Post-Doctoral Researcher with the Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen, Groningen, The Netherlands. His current research interest includes pattern recognition, document image analysis, and computational forensics
   url: http://ahmetcecen.github.io/
   visible: true
    
