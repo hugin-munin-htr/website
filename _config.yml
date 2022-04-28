@@ -13,9 +13,9 @@ headercolor: "#FFFFFF"
 logo: /website/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
-disqus_shortname: project-pages
+github_username:  hugin-munin-htr
+project_repository: hugin-munin-htr
+disqus_shortname: hugin-munin-htr
 g-analytics: UA-75881392-1
 altmetric: true
 
