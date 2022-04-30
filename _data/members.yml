@@ -1,23 +1,30 @@
 # Members
 
 - name: Sukalpa Chanda
-  role: Project Manager / Associate Professor
+  role: Project Coordinator / Associate Professor
   img: https://www.hiof.no/iio/itk/personer/und-forsk-ansatte/sukalpac/sukalpa.jpg
-  bio: Sukalpa Chanda received the Ph.D. degree in computer science from Gjøvik University College (currently NTNU IN), Gjøvik, Norway, in 2015.,He is currently a Post-Doctoral Researcher with the Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen, Groningen, The Netherlands. His current research interest includes pattern recognition, document image analysis, and computational forensics
+  bio: TODO
   url: http://ahmetcecen.github.io/
   visible: true
    
 - name: Ingvil Beyer
   role: TODO
-  img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
+  img: https://scontent-lhr8-1.xx.fbcdn.net/v/t1.18169-9/12240047_10153834203373798_417154898129703516_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GW94U6_2Ff8AX9vtBZo&_nc_ht=scontent-lhr8-1.xx&oh=00_AT9TK9vCxzXRp-YzAfQadceKnqOmAcQORhEPeBzMzJS41A&oe=62921BD6
   github: Yngvil
   bio: TODO
   url: https://www.nb.no 
   visible: true
   
 - name: Fredrika Haneborg-Luhr
-  role: Materials Informatics
+  role: Project manager
   img: http://www.lumex.no/wp-content/uploads/2016/04/fredrika-web.png
   bio: TODO
   url: http://www.lumex.no/
+  visible: true
+  
+  - name: Christopher Kermorvant
+  role: AI Expert, CEO of TEKLIA
+  img: https://teklia.com/processed_images/d0ceaf30d8e505ca00.jpg
+  bio: TODO
+  url: http://teklia.com/
   visible: true
